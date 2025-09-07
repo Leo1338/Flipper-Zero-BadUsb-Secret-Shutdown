@@ -1,0 +1,1 @@
+# Flipper-Zero-BadUsb-Secret-Shutdown

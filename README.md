@@ -15,10 +15,9 @@
 - Internet connection
 
 ## Installation ##
-- Press the Green "``<> Code``" button
-- Press the "``Download ZIP``" button (it is advisable to download the latest version)
-- **Unzip** and drag into **qflipper**
-
+- Look to the right side of the repository page and find the Latest section there.
+- Next, download the latest version (it is displayed with the Latest green icon)
+- **Unpack ** and drag it to **qflipper.**
 
 ## Terms of Use ##
 
